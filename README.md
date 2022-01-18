@@ -43,7 +43,10 @@ dd(preg_match('/^[^0-9^.][a-zA-Z0-9]+(\.?[a-z]+)*@gmail.com/', '.ali.rezvaniara@
   <input type="submit">
 </form>
 
-<p><strong>Note:</strong> The pattern attribute of the input is not supported in Safari 10 (or earlier).</p>
+<p>
+  <strong>Note:</strong>
+  The pattern attribute of the input is not supported in Safari 10 (or earlier).
+</p>
 
 </body>
 </html>
