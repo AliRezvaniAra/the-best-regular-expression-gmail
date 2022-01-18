@@ -36,7 +36,7 @@ dd(preg_match('/^[^0-9^.][a-zA-Z0-9]+(\.?[a-z]+)*@gmail.com/', '.ali.rezvaniara@
 <html>
 <body>
 
-<h1>Example using of GMAIL regular expression in html</h1>
+<h1>Example of using GMAIL regular expression in html</h1>
 
 <form action="/action_page.php">
   <input type="text" id="email" name="email" pattern="^[^0-9^.][a-zA-Z0-9]+(\.?[a-z]+)*@gmail.com" >
